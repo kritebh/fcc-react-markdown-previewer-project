@@ -1,0 +1,21 @@
+body {
+  background-color: #87b5b5;
+}
+
+.preview {
+  background-color: antiquewhite;
+  margin-bottom: 20px;
+}
+
+.preview blockquote {
+  border-left: 8px solid black;
+  padding: 0.2em 10px;
+}
+
+.preview img {
+  max-width: 100%;
+}
+
+#editor {
+  min-height: 500px;
+}
